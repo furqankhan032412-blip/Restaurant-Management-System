@@ -1,2 +1,73 @@
-# Restaurant-Management-System
-A Full-stack Restaurant Management System built with Python &amp; Tkinter GUI
+# 🍽️ Restaurant Management System
+
+A desktop-based **Restaurant Management System** developed in **Python** using the **Tkinter GUI** library. This application allows restaurant staff to manage customer orders, generate bills, and maintain restaurant operations through a simple graphical interface.
+
+---
+
+# 🚀 Features
+
+- ✅ GUI built with Tkinter
+- ✅ Food menu management
+- ✅ Customer order processing
+- ✅ Automatic bill generation
+- ✅ JSON-based data storage
+- ✅ User-friendly interface
+- ✅ Fast and lightweight desktop application
+
+---
+
+# 🛠️ Technologies Used
+
+- Python 3
+- Tkinter
+- JSON
+- OS Module
+- Datetime Module
+
+---
+
+# ▶️ How to Run
+
+1. Install **Python 3.x**
+2. Clone or download this repository.
+3. Open the project folder.
+4. Run the following command:
+
+
+python "Restaurant Management System.py"
+
+
+📸 Demo Video
+
+
+
+
+https://github.com/user-attachments/assets/1ce2d869-48ad-4344-b150-3d1f7ac51451
+
+
+
+
+
+---
+
+🎯 Learning Outcomes
+
+- GUI development with Tkinter
+- File handling using JSON
+- Order and billing logic
+- Event-driven programming
+- Python desktop application development
+
+---
+
+👨‍💻 Author
+
+Furqan Khan
+
+Artificial Intelligence Student
+
+---
+
+⭐ Support
+
+If you found this project useful, please give this repository a ⭐ Star.
