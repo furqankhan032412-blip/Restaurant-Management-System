@@ -44,7 +44,9 @@ python "Restaurant Management System.py"
 
 
 
-Uploading 15-43-11.mp4…
+
+https://github.com/user-attachments/assets/dd6d3207-bd28-4728-84a1-ff6026f4a245
+
 
 
 
